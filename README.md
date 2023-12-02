@@ -1,3 +1,4 @@
+<h2>I'm Emin, 👨‍💻 a passionate web developer in Turkey 🚀</h2>
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
