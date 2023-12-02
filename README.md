@@ -1,4 +1,12 @@
 <h2>I'm Emin, 👨‍💻 a passionate web developer in Turkey 🚀</h2>
+
+<h3>💻 About Me</h3>
+<ul dir="auto">
+<li>💼 You can view my company profile at [EY Creative Digital Advertising Agency](https://www.eycreative.org/)</li>
+<li>✍️ I regularly write articles on [eminylmz.dev](https://eminylmz.dev)</li>
+<li>❤️ I love Graphic Design and Software</li>
+</ul>
+
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
