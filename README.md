@@ -37,4 +37,9 @@
 </ul>
 
 <h3>🤝🏻 Connect with Me</h3>
-<img src="https://img.shields.io/badge/Emin Yılmaz-+-cdCf71.svg?style=popout-square&logo=instagram"/>
+<p align="left" dir="auto">
+  <a href="https://www.instagram.com/emin.xs/" target="_blank"><img src="https://img.shields.io/badge/@emin.xs-Follow-2196f3.svg?style=popout-border&logo=instagram"/></a>
+  <a href="https://twitter.com/eminylmz_dev" target="_blank"><img src="https://img.shields.io/badge/@eminylmz_dev-Follow-2196f3.svg?style=popout-border&logo=twitter"/></a>
+  <a href="https://linkedin.com/in/eminyilmazz/" target="_blank"><img src="https://img.shields.io/badge/@eminyilmazz-Follow-2196f3.svg?style=popout-border&logo=linkedin"/></a>
+  <a href="https://www.behance.net/eycreative" target="_blank"><img src="https://img.shields.io/badge/@eycreative-Follow-2196f3.svg?style=popout-border&logo=behance"/></a>
+</p>
