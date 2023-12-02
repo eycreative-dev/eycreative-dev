@@ -42,4 +42,5 @@
   <a href="https://twitter.com/eminylmz_dev" target="_blank"><img src="https://img.shields.io/badge/@eminylmz_dev-Follow-2196f3.svg?style=popout-border&logo=twitter"/></a>
   <a href="https://linkedin.com/in/eminyilmazz/" target="_blank"><img src="https://img.shields.io/badge/@eminyilmazz-Follow-2196f3.svg?style=popout-border&logo=linkedin"/></a>
   <a href="https://www.behance.net/eycreative" target="_blank"><img src="https://img.shields.io/badge/@eycreative-Follow-2196f3.svg?style=popout-border&logo=behance"/></a>
+  <a href="mailto:eminylmz1453@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-eminylmz1453@gmail.com-2196f3.svg?style=popout-border&logo=gmail"/></a>
 </p>
