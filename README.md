@@ -28,9 +28,13 @@
   </li>
     <li>⚙️
     <img src="https://img.shields.io/badge/-Git-333.svg?logo=git&style=flat">
-    <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+    <img src="https://img.shields.io/badge/-GitHub-333.svg?logo=github&style=flat">
   </li>
     <li>🔧
     <img src="https://img.shields.io/badge/-Visual Studio Code-5C2D91.svg?logo=visualstudio&style=flat">
+    <img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat">
   </li>
 </ul>
+
+<h3>🤝🏻 Connect with Me</h3>
+<img src="https://img.shields.io/badge/Emin Yılmaz-+-cdCf71.svg?style=popout-square&logo=instagram"/>
